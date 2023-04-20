@@ -8,24 +8,26 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Dell XPS 13',
+    price: 1499,
+    description:
+      'A compact ultrabook with an agradable screen, high-level performance and heavy work support',
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'HP Pavlionbook 17',
+    price: 2299,
+    description:
+      'A heavy notebook with one of the best video cards on the market and supreme-high-level performance',
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
-  }
+    name: 'Lenovo Thinkpad 14',
+    price: 1099,
+    description:
+      'A smooth notebook with general great technical specifications - like good screen, top-level processor and high amount of memory',
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
