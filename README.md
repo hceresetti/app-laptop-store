@@ -1,5 +1,5 @@
-# Angular Laptop Store
+# Angular Laptop Store App
 
-A Angular command line interface project based on @angular/animations, @angular/compiler, @angular/core, @angular/common, @angular/platform-browser-dynamic, @angular/platform-browser, Reactive Extensions Library for JavaScript, tslib, zone.js and @angular/router web frontend software dependencies.
+Angular Example - Getting Started
 
 Be free to edit this project on StackBlitz source code editor accessing the following hyperlink through any contemporany web browser (like Microsoft Edge or Mozilla Firefox): https://stackblitz.com/edit/angular-laptop-store
