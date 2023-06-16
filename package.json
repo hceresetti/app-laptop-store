@@ -1,5 +1,5 @@
 {
-  "name": "angular.io-example",
+  "name": "app-laptop-store",
   "version": "0.0.0",
   "description": "Example project from an angular.io guide.",
   "license": "MIT",
@@ -13,18 +13,18 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^16.1.0-rc.0",
-    "@angular/common": "^16.1.0-rc.0",
-    "@angular/compiler": "^16.1.0-rc.0",
-    "@angular/core": "^16.1.0-rc.0",
-    "@angular/forms": "^16.1.0-rc.0",
-    "@angular/platform-browser": "^16.1.0-rc.0",
-    "@angular/platform-browser-dynamic": "^16.1.0-rc.0",
-    "@angular/router": "^16.1.0-rc.0",
+    "@angular/animations": "^16.1.1",
+    "@angular/common": "^16.1.1",
+    "@angular/compiler": "^16.1.1",
+    "@angular/core": "^16.1.1",
+    "@angular/forms": "^16.1.1",
+    "@angular/platform-browser": "^16.1.1",
+    "@angular/platform-browser-dynamic": "^16.1.1",
+    "@angular/router": "^16.1.1",
     "angular-in-memory-web-api": "~0.16.0",
-    "rxjs": "~7.8.0",
-    "tslib": "^2.3.0",
-    "zone.js": "~0.13.0"
+    "rxjs": "~7.8.1",
+    "tslib": "^2.5.3",
+    "zone.js": "~0.13.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.1.0-rc.0",
